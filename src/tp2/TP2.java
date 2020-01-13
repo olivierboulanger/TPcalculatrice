@@ -38,7 +38,7 @@ public class TP2 {
                 double arrondi = arrondi(division, 2);
                 
                 if (secondNumber == 0 && signe =='/'){
-                    System.out.println("On ne peut pas diviser par zéro !");
+                    System.out.println("On ne peut pas diviser par 0 !");
                     break;
                 }
 
